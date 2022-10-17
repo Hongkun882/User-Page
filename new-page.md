@@ -2,7 +2,7 @@
 >Be alone, that is the secret of invention; be alone, that is when ideas are born. - Nikolas Tesla   
 
 **Table Of Content**
-- [Hongkun Guan's User Page](#hongkun-guans-user-page)
+
   - [Introduction](#introduction)
   - [Programing languange](#programing-languange)
   - [Image](#image)
